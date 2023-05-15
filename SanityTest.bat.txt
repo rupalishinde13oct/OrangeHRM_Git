@@ -1,0 +1,1 @@
+pytest -v --html=Reports/OrangeHRMSanityReport.html --browser chrome -m sanity

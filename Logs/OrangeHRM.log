@@ -1,0 +1,559 @@
+ 2023-05-13 21:55:31,664 : INFO : test_AddEmployee_003 : 18 : test_AddEmployee is Started
+ 2023-05-13 21:55:31,664 : INFO : test_AddEmployee_003 : 19 : Opening Browser
+ 2023-05-13 21:55:38,511 : INFO : test_AddEmployee_003 : 21 : Go To --> https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-13 21:55:38,511 : INFO : test_AddEmployee_003 : 24 : Login Page Opened
+ 2023-05-13 21:55:43,558 : INFO : test_AddEmployee_003 : 27 : Username Entered -->Admin
+ 2023-05-13 21:55:43,621 : INFO : test_AddEmployee_003 : 29 : Password Entered -->admin123
+ 2023-05-13 21:55:46,670 : INFO : test_AddEmployee_003 : 31 : Login Successful
+ 2023-05-13 21:55:47,492 : INFO : test_AddEmployee_003 : 35 : Clicked on PIM tab
+ 2023-05-13 21:55:53,122 : INFO : test_AddEmployee_003 : 38 : Clicked on Add Button
+ 2023-05-13 21:55:58,275 : INFO : test_AddEmployee_003 : 41 : First Name entered
+ 2023-05-13 21:55:58,326 : INFO : test_AddEmployee_003 : 43 : Middle Name entered
+ 2023-05-13 21:55:58,384 : INFO : test_AddEmployee_003 : 45 : Last Name entered
+ 2023-05-13 21:55:58,422 : INFO : test_AddEmployee_003 : 47 : Clicked On Submit Button
+ 2023-05-13 21:56:02,564 : INFO : test_AddEmployee_003 : 50 : test_AddEmployee is Passed
+ 2023-05-13 21:56:02,611 : INFO : test_AddEmployee_003 : 52 : Click on Logout Button
+ 2023-05-13 21:56:04,385 : INFO : test_AddEmployee_003 : 59 : test_AddEmployee is Completed
+ 2023-05-13 21:56:05,845 : INFO : test_AddEmployee_ddt_006 : 21 : test_AddEmployee_ddt_006 is Started
+ 2023-05-13 21:56:05,845 : INFO : test_AddEmployee_ddt_006 : 22 : Opening Browser
+ 2023-05-13 21:56:20,918 : INFO : test_AddEmployee_ddt_006 : 24 : Go To --> https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-13 21:56:20,918 : INFO : test_AddEmployee_ddt_006 : 27 : Login Page Opened
+ 2023-05-13 21:56:25,965 : INFO : test_AddEmployee_ddt_006 : 30 : Username Entered -->Admin
+ 2023-05-13 21:56:26,012 : INFO : test_AddEmployee_ddt_006 : 32 : Password Entered -->admin123
+ 2023-05-13 21:56:30,344 : INFO : test_AddEmployee_ddt_006 : 34 : Login Successful
+ 2023-05-13 21:56:31,374 : INFO : test_AddEmployee_ddt_006 : 41 : Clicked on PIM tab
+ 2023-05-13 21:56:37,027 : INFO : test_AddEmployee_ddt_006 : 44 : Clicked on Add Button
+ 2023-05-13 21:56:42,148 : INFO : test_AddEmployee_ddt_006 : 53 : First Name entered -->Rupali
+ 2023-05-13 21:56:42,218 : INFO : test_AddEmployee_ddt_006 : 55 : Middle Name entered -->Prathamesh
+ 2023-05-13 21:56:42,273 : INFO : test_AddEmployee_ddt_006 : 57 : Last Name entered -->Pandit
+ 2023-05-13 21:56:44,370 : INFO : test_AddEmployee_ddt_006 : 60 : Clicked On Submit Button
+ 2023-05-13 21:56:50,051 : INFO : test_AddEmployee_ddt_006 : 67 : Clicked On Add_Employee Button
+ 2023-05-13 21:56:50,063 : INFO : test_AddEmployee_ddt_006 : 69 : Data is written in XL sheet
+ 2023-05-13 21:56:50,420 : INFO : test_AddEmployee_ddt_006 : 53 : First Name entered -->Ishanvi
+ 2023-05-13 21:56:50,472 : INFO : test_AddEmployee_ddt_006 : 55 : Middle Name entered -->Prathamesh
+ 2023-05-13 21:56:50,519 : INFO : test_AddEmployee_ddt_006 : 57 : Last Name entered -->Pandit
+ 2023-05-13 21:56:52,556 : INFO : test_AddEmployee_ddt_006 : 60 : Clicked On Submit Button
+ 2023-05-13 21:56:58,380 : INFO : test_AddEmployee_ddt_006 : 67 : Clicked On Add_Employee Button
+ 2023-05-13 21:56:58,402 : INFO : test_AddEmployee_ddt_006 : 69 : Data is written in XL sheet
+ 2023-05-13 21:56:58,852 : INFO : test_AddEmployee_ddt_006 : 53 : First Name entered -->Prathamesh
+ 2023-05-13 21:56:58,903 : INFO : test_AddEmployee_ddt_006 : 55 : Middle Name entered -->Prathamesh
+ 2023-05-13 21:56:58,949 : INFO : test_AddEmployee_ddt_006 : 57 : Last Name entered -->Pandit
+ 2023-05-13 21:57:00,983 : INFO : test_AddEmployee_ddt_006 : 60 : Clicked On Submit Button
+ 2023-05-13 21:57:07,019 : INFO : test_AddEmployee_ddt_006 : 67 : Clicked On Add_Employee Button
+ 2023-05-13 21:57:07,075 : INFO : test_AddEmployee_ddt_006 : 69 : Data is written in XL sheet
+ 2023-05-13 21:57:07,452 : INFO : test_AddEmployee_ddt_006 : 53 : First Name entered -->Surekha
+ 2023-05-13 21:57:07,503 : INFO : test_AddEmployee_ddt_006 : 55 : Middle Name entered -->Maruti
+ 2023-05-13 21:57:07,554 : INFO : test_AddEmployee_ddt_006 : 57 : Last Name entered -->Sutar
+ 2023-05-13 21:57:09,589 : INFO : test_AddEmployee_ddt_006 : 60 : Clicked On Submit Button
+ 2023-05-13 21:57:15,325 : INFO : test_AddEmployee_ddt_006 : 67 : Clicked On Add_Employee Button
+ 2023-05-13 21:57:15,334 : INFO : test_AddEmployee_ddt_006 : 69 : Data is written in XL sheet
+ 2023-05-13 21:57:17,373 : INFO : test_AddEmployee_ddt_006 : 83 : Click on Menu Button
+ 2023-05-13 21:57:18,139 : INFO : test_AddEmployee_ddt_006 : 85 : Click on Logout Button
+ 2023-05-13 21:57:18,221 : INFO : test_AddEmployee_ddt_006 : 89 : test_addEmp_ddt_005 is Passed
+ 2023-05-13 21:57:18,221 : INFO : test_AddEmployee_ddt_006 : 94 : test_addEmp_ddt_005 is Completed
+ 2023-05-13 21:57:19,696 : INFO : test_page_Titl_001 : 17 : test_page_Titl_001 is Started
+ 2023-05-13 21:57:19,696 : INFO : test_page_Titl_001 : 18 : Opening Browser
+ 2023-05-13 21:57:31,584 : INFO : test_page_Titl_001 : 20 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-13 21:57:31,588 : INFO : test_page_Titl_001 : 23 : test_page_Titl_001 is Passed
+ 2023-05-13 21:57:31,591 : INFO : test_page_Titl_001 : 24 : Page Title is --> OrangeHRM
+ 2023-05-13 21:57:31,668 : INFO : test_page_Titl_001 : 30 : test_page_Titl_001 is Completed
+ 2023-05-13 21:57:33,109 : INFO : test_Login_002 : 37 : test_Login_002 is Started
+ 2023-05-13 21:57:33,109 : INFO : test_Login_002 : 38 : Opening Browser
+ 2023-05-13 21:57:41,120 : INFO : test_Login_002 : 40 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-13 21:57:41,120 : INFO : test_Login_002 : 42 : Login Page Opened
+ 2023-05-13 21:57:46,173 : INFO : test_Login_002 : 45 : Username Entered -->Admin
+ 2023-05-13 21:57:46,235 : INFO : test_Login_002 : 47 : Password Entered -->admin123
+ 2023-05-13 21:57:50,589 : INFO : test_Login_002 : 52 : Login Successful
+ 2023-05-13 21:57:50,589 : INFO : test_Login_002 : 53 : test_Login_002 is Passed
+ 2023-05-13 21:57:50,818 : INFO : test_Login_002 : 56 : Clicked on Logout
+ 2023-05-13 21:57:51,778 : INFO : test_Login_002 : 66 : test_Login_002 is Completed
+ 2023-05-13 21:57:53,289 : INFO : test_Login_ddt_007 : 21 : test_Login_002 is Started
+ 2023-05-13 21:57:53,289 : INFO : test_Login_ddt_007 : 22 : Opening Browser
+ 2023-05-13 21:57:58,973 : INFO : test_Login_ddt_007 : 24 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-13 21:57:58,973 : INFO : test_Login_ddt_007 : 26 : Login Page Opened
+ 2023-05-13 21:58:04,049 : INFO : test_Login_ddt_007 : 37 : Username Entered -->Admin
+ 2023-05-13 21:58:04,109 : INFO : test_Login_ddt_007 : 39 : Password Entered -->admin123
+ 2023-05-13 21:58:08,405 : INFO : test_Login_ddt_007 : 45 : Login Successful
+ 2023-05-13 21:58:08,405 : INFO : test_Login_ddt_007 : 46 : test_Login_002 is Passed
+ 2023-05-13 21:58:08,610 : INFO : test_Login_ddt_007 : 49 : Clicked on Logout
+ 2023-05-13 21:58:10,111 : INFO : test_Login_ddt_007 : 37 : Username Entered -->Admin1
+ 2023-05-13 21:58:10,157 : INFO : test_Login_ddt_007 : 39 : Password Entered -->admin123
+ 2023-05-13 21:58:23,247 : INFO : test_Login_ddt_007 : 54 : test_Login_002 is Failed
+ 2023-05-13 21:58:23,417 : INFO : test_Login_ddt_007 : 37 : Username Entered -->Admin
+ 2023-05-13 21:58:23,466 : INFO : test_Login_ddt_007 : 39 : Password Entered -->admin1251
+ 2023-05-13 21:58:36,563 : INFO : test_Login_ddt_007 : 54 : test_Login_002 is Failed
+ 2023-05-13 21:58:36,740 : INFO : test_Login_ddt_007 : 37 : Username Entered -->Admin1
+ 2023-05-13 21:58:36,790 : INFO : test_Login_ddt_007 : 39 : Password Entered -->admin1261
+ 2023-05-13 21:58:49,857 : INFO : test_Login_ddt_007 : 54 : test_Login_002 is Failed
+ 2023-05-13 21:58:51,012 : INFO : test_Login_ddt_007 : 60 : test_Login_002 is Completed
+ 2023-05-13 21:58:52,478 : INFO : test_Login_Params_004 : 18 : test_Login_002 is Started
+ 2023-05-13 21:58:52,478 : INFO : test_Login_Params_004 : 19 : Opening Browser
+ 2023-05-13 21:58:57,731 : INFO : test_Login_Params_004 : 21 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-13 21:58:57,731 : INFO : test_Login_Params_004 : 23 : Login Page Opened
+ 2023-05-13 21:59:02,783 : INFO : test_Login_Params_004 : 26 : Username Entered -->Admin
+ 2023-05-13 21:59:02,851 : INFO : test_Login_Params_004 : 28 : Password Entered -->admin123
+ 2023-05-13 21:59:05,906 : INFO : test_Login_Params_004 : 34 : Login Successful
+ 2023-05-13 21:59:05,906 : INFO : test_Login_Params_004 : 35 : test_Login_002 is Passed
+ 2023-05-13 21:59:06,160 : INFO : test_Login_Params_004 : 38 : Clicked on Logout
+ 2023-05-13 21:59:06,992 : INFO : test_Login_Params_004 : 57 : test_Login_002 is Completed
+ 2023-05-13 21:59:08,445 : INFO : test_Login_Params_004 : 18 : test_Login_002 is Started
+ 2023-05-13 21:59:08,445 : INFO : test_Login_Params_004 : 19 : Opening Browser
+ 2023-05-13 21:59:17,919 : INFO : test_Login_Params_004 : 21 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-13 21:59:17,919 : INFO : test_Login_Params_004 : 23 : Login Page Opened
+ 2023-05-13 21:59:22,971 : INFO : test_Login_Params_004 : 26 : Username Entered -->Admin1
+ 2023-05-13 21:59:23,018 : INFO : test_Login_Params_004 : 28 : Password Entered -->admin123
+ 2023-05-13 21:59:36,105 : INFO : test_Login_Params_004 : 48 : test_Login_002 is Passed
+ 2023-05-13 21:59:36,185 : INFO : test_Login_Params_004 : 57 : test_Login_002 is Completed
+ 2023-05-13 21:59:37,667 : INFO : test_Login_Params_004 : 18 : test_Login_002 is Started
+ 2023-05-13 21:59:37,667 : INFO : test_Login_Params_004 : 19 : Opening Browser
+ 2023-05-13 21:59:43,140 : INFO : test_Login_Params_004 : 21 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-13 21:59:43,140 : INFO : test_Login_Params_004 : 23 : Login Page Opened
+ 2023-05-13 21:59:48,193 : INFO : test_Login_Params_004 : 26 : Username Entered -->Admin
+ 2023-05-13 21:59:48,241 : INFO : test_Login_Params_004 : 28 : Password Entered -->admin1231
+ 2023-05-13 22:00:02,605 : INFO : test_Login_Params_004 : 48 : test_Login_002 is Passed
+ 2023-05-13 22:00:02,690 : INFO : test_Login_Params_004 : 57 : test_Login_002 is Completed
+ 2023-05-13 22:00:04,192 : INFO : test_Login_Params_004 : 18 : test_Login_002 is Started
+ 2023-05-13 22:00:04,192 : INFO : test_Login_Params_004 : 19 : Opening Browser
+ 2023-05-13 22:00:10,995 : INFO : test_Login_Params_004 : 21 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-13 22:00:10,995 : INFO : test_Login_Params_004 : 23 : Login Page Opened
+ 2023-05-13 22:00:16,047 : INFO : test_Login_Params_004 : 26 : Username Entered -->Admin1
+ 2023-05-13 22:00:16,107 : INFO : test_Login_Params_004 : 28 : Password Entered -->admin1231
+ 2023-05-13 22:00:29,950 : INFO : test_Login_Params_004 : 48 : test_Login_002 is Passed
+ 2023-05-13 22:00:30,020 : INFO : test_Login_Params_004 : 57 : test_Login_002 is Completed
+ 2023-05-13 22:00:31,542 : INFO : test_EmpSearch_005 : 19 : test_EmpSearch_005 is Started
+ 2023-05-13 22:00:31,543 : INFO : test_EmpSearch_005 : 20 : Opening Browser..
+ 2023-05-13 22:00:36,316 : INFO : test_EmpSearch_005 : 22 : Go To --> https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-13 22:00:38,363 : INFO : test_EmpSearch_005 : 27 : Entering Username -->Admin
+ 2023-05-13 22:00:38,421 : INFO : test_EmpSearch_005 : 29 : Entering Password -->admin123
+ 2023-05-13 22:00:42,516 : INFO : test_EmpSearch_005 : 31 : Click on Login Button
+ 2023-05-13 22:00:45,511 : INFO : test_EmpSearch_005 : 35 : Click on PIM Button
+ 2023-05-13 22:00:52,648 : INFO : test_EmpSearch_005 : 40 : Entering Employee name to search
+ 2023-05-13 22:00:54,757 : INFO : test_EmpSearch_005 : 43 : Click on search Button
+ 2023-05-13 22:00:59,795 : INFO : test_EmpSearch_005 : 48 : Search Found
+ 2023-05-13 22:01:00,008 : INFO : test_EmpSearch_005 : 51 : Click on Menu Button
+ 2023-05-13 22:01:00,718 : INFO : test_EmpSearch_005 : 53 : Click on Logout Button
+ 2023-05-13 22:01:00,718 : INFO : test_EmpSearch_005 : 54 : test_EmpSearch_005 is Passed
+ 2023-05-13 22:16:38,575 : INFO : test_AddEmployee_003 : 21 : test_AddEmployee is Started
+ 2023-05-13 22:16:38,575 : INFO : test_AddEmployee_003 : 22 : Opening Browser
+ 2023-05-13 22:16:50,719 : INFO : test_AddEmployee_003 : 24 : Go To --> https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-13 22:16:50,719 : INFO : test_AddEmployee_003 : 27 : Login Page Opened
+ 2023-05-13 22:16:55,772 : INFO : test_AddEmployee_003 : 30 : Username Entered -->Admin
+ 2023-05-13 22:16:55,835 : INFO : test_AddEmployee_003 : 32 : Password Entered -->admin123
+ 2023-05-13 22:16:58,875 : INFO : test_AddEmployee_003 : 34 : Login Successful
+ 2023-05-13 22:16:59,717 : INFO : test_AddEmployee_003 : 38 : Clicked on PIM tab
+ 2023-05-13 22:17:05,372 : INFO : test_AddEmployee_003 : 41 : Clicked on Add Button
+ 2023-05-13 22:17:10,501 : INFO : test_AddEmployee_003 : 44 : First Name entered
+ 2023-05-13 22:17:10,548 : INFO : test_AddEmployee_003 : 46 : Middle Name entered
+ 2023-05-13 22:17:10,603 : INFO : test_AddEmployee_003 : 48 : Last Name entered
+ 2023-05-13 22:17:10,636 : INFO : test_AddEmployee_003 : 50 : Clicked On Submit Button
+ 2023-05-13 22:17:14,770 : INFO : test_AddEmployee_003 : 53 : test_AddEmployee is Passed
+ 2023-05-13 22:17:14,815 : INFO : test_AddEmployee_003 : 55 : Click on Logout Button
+ 2023-05-13 22:17:17,068 : INFO : test_AddEmployee_003 : 62 : test_AddEmployee is Completed
+ 2023-05-13 22:17:18,620 : INFO : test_Login_002 : 38 : test_Login_002 is Started
+ 2023-05-13 22:17:18,620 : INFO : test_Login_002 : 39 : Opening Browser
+ 2023-05-13 22:17:28,554 : INFO : test_Login_002 : 41 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-13 22:17:28,554 : INFO : test_Login_002 : 43 : Login Page Opened
+ 2023-05-13 22:17:33,602 : INFO : test_Login_002 : 46 : Username Entered -->Admin
+ 2023-05-13 22:17:33,657 : INFO : test_Login_002 : 48 : Password Entered -->admin123
+ 2023-05-13 22:17:36,698 : INFO : test_Login_002 : 53 : Login Successful
+ 2023-05-13 22:17:36,698 : INFO : test_Login_002 : 54 : test_Login_002 is Passed
+ 2023-05-13 22:17:37,046 : INFO : test_Login_002 : 57 : Clicked on Logout
+ 2023-05-13 22:17:37,948 : INFO : test_Login_002 : 67 : test_Login_002 is Completed
+ 2023-05-13 22:17:39,495 : INFO : test_EmpSearch_005 : 22 : test_EmpSearch_005 is Started
+ 2023-05-13 22:17:39,495 : INFO : test_EmpSearch_005 : 23 : Opening Browser..
+ 2023-05-13 22:17:50,881 : INFO : test_EmpSearch_005 : 25 : Go To --> https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-13 22:17:52,969 : INFO : test_EmpSearch_005 : 30 : Entering Username -->Admin
+ 2023-05-13 22:17:53,046 : INFO : test_EmpSearch_005 : 32 : Entering Password -->admin123
+ 2023-05-13 22:17:58,930 : INFO : test_EmpSearch_005 : 34 : Click on Login Button
+ 2023-05-13 22:18:04,798 : INFO : test_EmpSearch_005 : 38 : Click on PIM Button
+ 2023-05-13 22:18:11,945 : INFO : test_EmpSearch_005 : 43 : Entering Employee name to search
+ 2023-05-13 22:18:14,051 : INFO : test_EmpSearch_005 : 46 : Click on search Button
+ 2023-05-13 22:18:19,104 : INFO : test_EmpSearch_005 : 51 : Search Found
+ 2023-05-13 22:18:19,312 : INFO : test_EmpSearch_005 : 54 : Click on Menu Button
+ 2023-05-13 22:18:20,072 : INFO : test_EmpSearch_005 : 56 : Click on Logout Button
+ 2023-05-13 22:18:20,072 : INFO : test_EmpSearch_005 : 57 : test_EmpSearch_005 is Passed
+ 2023-05-15 13:04:40,188 : INFO : test_AddEmployee_003 : 21 : test_AddEmployee is Started
+ 2023-05-15 13:04:40,188 : INFO : test_AddEmployee_003 : 22 : Opening Browser
+ 2023-05-15 13:04:46,560 : INFO : test_AddEmployee_003 : 24 : Go To --> https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 13:04:46,560 : INFO : test_AddEmployee_003 : 27 : Login Page Opened
+ 2023-05-15 13:04:51,615 : INFO : test_AddEmployee_003 : 30 : Username Entered -->Admin
+ 2023-05-15 13:04:51,681 : INFO : test_AddEmployee_003 : 32 : Password Entered -->admin123
+ 2023-05-15 13:04:54,729 : INFO : test_AddEmployee_003 : 34 : Login Successful
+ 2023-05-15 13:04:55,546 : INFO : test_AddEmployee_003 : 38 : Clicked on PIM tab
+ 2023-05-15 13:05:01,145 : INFO : test_AddEmployee_003 : 41 : Clicked on Add Button
+ 2023-05-15 13:05:06,284 : INFO : test_AddEmployee_003 : 44 : First Name entered
+ 2023-05-15 13:05:06,326 : INFO : test_AddEmployee_003 : 46 : Middle Name entered
+ 2023-05-15 13:05:06,376 : INFO : test_AddEmployee_003 : 48 : Last Name entered
+ 2023-05-15 13:05:06,411 : INFO : test_AddEmployee_003 : 50 : Clicked On Submit Button
+ 2023-05-15 13:05:10,994 : INFO : test_AddEmployee_003 : 53 : test_AddEmployee is Passed
+ 2023-05-15 13:05:11,034 : INFO : test_AddEmployee_003 : 55 : Click on Logout Button
+ 2023-05-15 13:05:13,230 : INFO : test_AddEmployee_003 : 62 : test_AddEmployee is Completed
+ 2023-05-15 13:05:14,696 : INFO : test_AddEmployee_ddt_006 : 21 : test_AddEmployee_ddt_006 is Started
+ 2023-05-15 13:05:14,696 : INFO : test_AddEmployee_ddt_006 : 22 : Opening Browser
+ 2023-05-15 13:05:19,047 : INFO : test_AddEmployee_ddt_006 : 24 : Go To --> https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 13:05:19,047 : INFO : test_AddEmployee_ddt_006 : 27 : Login Page Opened
+ 2023-05-15 13:05:24,157 : INFO : test_AddEmployee_ddt_006 : 30 : Username Entered -->Admin
+ 2023-05-15 13:05:24,213 : INFO : test_AddEmployee_ddt_006 : 32 : Password Entered -->admin123
+ 2023-05-15 13:05:27,252 : INFO : test_AddEmployee_ddt_006 : 34 : Login Successful
+ 2023-05-15 13:05:28,557 : INFO : test_AddEmployee_ddt_006 : 41 : Clicked on PIM tab
+ 2023-05-15 13:05:34,234 : INFO : test_AddEmployee_ddt_006 : 44 : Clicked on Add Button
+ 2023-05-15 13:05:39,343 : INFO : test_AddEmployee_ddt_006 : 53 : First Name entered -->Rupali
+ 2023-05-15 13:05:39,401 : INFO : test_AddEmployee_ddt_006 : 55 : Middle Name entered -->Prathamesh
+ 2023-05-15 13:05:39,450 : INFO : test_AddEmployee_ddt_006 : 57 : Last Name entered -->Pandit
+ 2023-05-15 13:05:41,488 : INFO : test_AddEmployee_ddt_006 : 60 : Clicked On Submit Button
+ 2023-05-15 13:05:58,033 : INFO : test_page_Titl_001 : 19 : test_page_Titl_001 is Started
+ 2023-05-15 13:05:58,033 : INFO : test_page_Titl_001 : 20 : Opening Browser
+ 2023-05-15 13:06:14,445 : INFO : test_page_Titl_001 : 22 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 13:06:14,450 : INFO : test_page_Titl_001 : 25 : test_page_Titl_001 is Passed
+ 2023-05-15 13:06:14,453 : INFO : test_page_Titl_001 : 26 : Page Title is --> OrangeHRM
+ 2023-05-15 13:06:14,466 : INFO : test_page_Titl_001 : 32 : test_page_Titl_001 is Completed
+ 2023-05-15 13:06:15,944 : INFO : test_Login_002 : 38 : test_Login_002 is Started
+ 2023-05-15 13:06:15,944 : INFO : test_Login_002 : 39 : Opening Browser
+ 2023-05-15 13:06:23,884 : INFO : test_Login_002 : 41 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 13:06:23,884 : INFO : test_Login_002 : 43 : Login Page Opened
+ 2023-05-15 13:06:28,975 : INFO : test_Login_002 : 46 : Username Entered -->Admin
+ 2023-05-15 13:06:29,034 : INFO : test_Login_002 : 48 : Password Entered -->admin123
+ 2023-05-15 13:06:32,123 : INFO : test_Login_002 : 53 : Login Successful
+ 2023-05-15 13:06:32,123 : INFO : test_Login_002 : 54 : test_Login_002 is Passed
+ 2023-05-15 13:06:32,327 : INFO : test_Login_002 : 57 : Clicked on Logout
+ 2023-05-15 13:06:33,279 : INFO : test_Login_002 : 67 : test_Login_002 is Completed
+ 2023-05-15 13:06:34,764 : INFO : test_Login_ddt_007 : 21 : test_Login_002 is Started
+ 2023-05-15 13:06:34,764 : INFO : test_Login_ddt_007 : 22 : Opening Browser
+ 2023-05-15 13:06:48,187 : INFO : test_Login_ddt_007 : 24 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 13:06:48,187 : INFO : test_Login_ddt_007 : 26 : Login Page Opened
+ 2023-05-15 13:06:53,280 : INFO : test_Login_ddt_007 : 37 : Username Entered -->Admin
+ 2023-05-15 13:06:53,336 : INFO : test_Login_ddt_007 : 39 : Password Entered -->admin123
+ 2023-05-15 13:06:56,449 : INFO : test_Login_ddt_007 : 45 : Login Successful
+ 2023-05-15 13:06:56,449 : INFO : test_Login_ddt_007 : 46 : test_Login_002 is Passed
+ 2023-05-15 13:06:56,601 : INFO : test_Login_ddt_007 : 49 : Clicked on Logout
+ 2023-05-15 13:06:58,131 : INFO : test_Login_ddt_007 : 37 : Username Entered -->Admin1
+ 2023-05-15 13:06:58,177 : INFO : test_Login_ddt_007 : 39 : Password Entered -->admin123
+ 2023-05-15 13:07:11,301 : INFO : test_Login_ddt_007 : 54 : test_Login_002 is Failed
+ 2023-05-15 13:07:11,450 : INFO : test_Login_ddt_007 : 37 : Username Entered -->Admin
+ 2023-05-15 13:07:11,540 : INFO : test_Login_ddt_007 : 39 : Password Entered -->admin1251
+ 2023-05-15 13:07:24,673 : INFO : test_Login_ddt_007 : 54 : test_Login_002 is Failed
+ 2023-05-15 13:07:24,790 : INFO : test_Login_ddt_007 : 37 : Username Entered -->Admin1
+ 2023-05-15 13:07:24,836 : INFO : test_Login_ddt_007 : 39 : Password Entered -->admin1261
+ 2023-05-15 13:07:37,884 : INFO : test_Login_ddt_007 : 54 : test_Login_002 is Failed
+ 2023-05-15 13:07:37,969 : INFO : test_Login_ddt_007 : 60 : test_Login_002 is Completed
+ 2023-05-15 13:07:39,338 : INFO : test_Login_Params_004 : 18 : test_Login_002 is Started
+ 2023-05-15 13:07:39,338 : INFO : test_Login_Params_004 : 19 : Opening Browser
+ 2023-05-15 13:07:44,122 : INFO : test_Login_Params_004 : 21 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 13:07:44,123 : INFO : test_Login_Params_004 : 23 : Login Page Opened
+ 2023-05-15 13:07:49,227 : INFO : test_Login_Params_004 : 26 : Username Entered -->Admin
+ 2023-05-15 13:07:49,288 : INFO : test_Login_Params_004 : 28 : Password Entered -->admin123
+ 2023-05-15 13:07:52,374 : INFO : test_Login_Params_004 : 34 : Login Successful
+ 2023-05-15 13:07:52,375 : INFO : test_Login_Params_004 : 35 : test_Login_002 is Passed
+ 2023-05-15 13:07:52,574 : INFO : test_Login_Params_004 : 38 : Clicked on Logout
+ 2023-05-15 13:07:53,530 : INFO : test_Login_Params_004 : 57 : test_Login_002 is Completed
+ 2023-05-15 13:07:55,021 : INFO : test_Login_Params_004 : 18 : test_Login_002 is Started
+ 2023-05-15 13:07:55,021 : INFO : test_Login_Params_004 : 19 : Opening Browser
+ 2023-05-15 13:07:58,408 : INFO : test_Login_Params_004 : 21 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 13:07:58,408 : INFO : test_Login_Params_004 : 23 : Login Page Opened
+ 2023-05-15 13:08:03,517 : INFO : test_Login_Params_004 : 26 : Username Entered -->Admin1
+ 2023-05-15 13:08:03,582 : INFO : test_Login_Params_004 : 28 : Password Entered -->admin123
+ 2023-05-15 13:08:16,685 : INFO : test_Login_Params_004 : 48 : test_Login_002 is Passed
+ 2023-05-15 13:08:16,723 : INFO : test_Login_Params_004 : 57 : test_Login_002 is Completed
+ 2023-05-15 13:08:18,170 : INFO : test_Login_Params_004 : 18 : test_Login_002 is Started
+ 2023-05-15 13:08:18,170 : INFO : test_Login_Params_004 : 19 : Opening Browser
+ 2023-05-15 13:08:22,238 : INFO : test_Login_Params_004 : 21 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 13:08:22,238 : INFO : test_Login_Params_004 : 23 : Login Page Opened
+ 2023-05-15 13:08:27,310 : INFO : test_Login_Params_004 : 26 : Username Entered -->Admin
+ 2023-05-15 13:08:27,371 : INFO : test_Login_Params_004 : 28 : Password Entered -->admin1231
+ 2023-05-15 13:08:40,483 : INFO : test_Login_Params_004 : 48 : test_Login_002 is Passed
+ 2023-05-15 13:08:40,520 : INFO : test_Login_Params_004 : 57 : test_Login_002 is Completed
+ 2023-05-15 13:08:42,026 : INFO : test_Login_Params_004 : 18 : test_Login_002 is Started
+ 2023-05-15 13:08:42,026 : INFO : test_Login_Params_004 : 19 : Opening Browser
+ 2023-05-15 13:08:46,351 : INFO : test_Login_Params_004 : 21 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 13:08:46,351 : INFO : test_Login_Params_004 : 23 : Login Page Opened
+ 2023-05-15 13:08:51,444 : INFO : test_Login_Params_004 : 26 : Username Entered -->Admin1
+ 2023-05-15 13:08:51,504 : INFO : test_Login_Params_004 : 28 : Password Entered -->admin1231
+ 2023-05-15 13:09:04,619 : INFO : test_Login_Params_004 : 48 : test_Login_002 is Passed
+ 2023-05-15 13:09:04,669 : INFO : test_Login_Params_004 : 57 : test_Login_002 is Completed
+ 2023-05-15 13:09:06,092 : INFO : test_EmpSearch_005 : 22 : test_EmpSearch_005 is Started
+ 2023-05-15 13:09:06,092 : INFO : test_EmpSearch_005 : 23 : Opening Browser..
+ 2023-05-15 13:09:09,703 : INFO : test_EmpSearch_005 : 25 : Go To --> https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 13:09:11,751 : INFO : test_EmpSearch_005 : 30 : Entering Username -->Admin
+ 2023-05-15 13:09:11,807 : INFO : test_EmpSearch_005 : 32 : Entering Password -->admin123
+ 2023-05-15 13:09:13,384 : INFO : test_page_Titl_001 : 19 : test_page_Titl_001 is Started
+ 2023-05-15 13:09:13,385 : INFO : test_page_Titl_001 : 20 : Opening Browser
+ 2023-05-15 13:09:14,845 : INFO : test_EmpSearch_005 : 34 : Click on Login Button
+ 2023-05-15 13:09:16,259 : INFO : test_page_Titl_001 : 22 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 13:09:16,263 : INFO : test_page_Titl_001 : 25 : test_page_Titl_001 is Passed
+ 2023-05-15 13:09:16,266 : INFO : test_page_Titl_001 : 26 : Page Title is --> OrangeHRM
+ 2023-05-15 13:09:16,283 : INFO : test_page_Titl_001 : 32 : test_page_Titl_001 is Completed
+ 2023-05-15 13:09:17,741 : INFO : test_Login_002 : 38 : test_Login_002 is Started
+ 2023-05-15 13:09:17,741 : INFO : test_Login_002 : 39 : Opening Browser
+ 2023-05-15 13:09:17,874 : INFO : test_EmpSearch_005 : 38 : Click on PIM Button
+ 2023-05-15 13:09:20,442 : INFO : test_Login_002 : 41 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 13:09:20,442 : INFO : test_Login_002 : 43 : Login Page Opened
+ 2023-05-15 13:09:25,539 : INFO : test_Login_002 : 46 : Username Entered -->Admin
+ 2023-05-15 13:09:25,602 : INFO : test_Login_002 : 48 : Password Entered -->admin123
+ 2023-05-15 13:09:28,654 : INFO : test_Login_002 : 53 : Login Successful
+ 2023-05-15 13:09:28,654 : INFO : test_Login_002 : 54 : test_Login_002 is Passed
+ 2023-05-15 13:09:28,776 : INFO : test_Login_002 : 57 : Clicked on Logout
+ 2023-05-15 13:09:29,672 : INFO : test_Login_002 : 67 : test_Login_002 is Completed
+ 2023-05-15 13:09:46,111 : INFO : test_Login_ddt_007 : 21 : test_Login_002 is Started
+ 2023-05-15 13:09:46,111 : INFO : test_Login_ddt_007 : 22 : Opening Browser
+ 2023-05-15 13:09:50,472 : INFO : test_Login_ddt_007 : 24 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 13:09:50,472 : INFO : test_Login_ddt_007 : 26 : Login Page Opened
+ 2023-05-15 13:09:55,532 : INFO : test_Login_ddt_007 : 37 : Username Entered -->Admin
+ 2023-05-15 13:09:55,587 : INFO : test_Login_ddt_007 : 39 : Password Entered -->admin123
+ 2023-05-15 13:09:58,688 : INFO : test_Login_ddt_007 : 45 : Login Successful
+ 2023-05-15 13:09:58,688 : INFO : test_Login_ddt_007 : 46 : test_Login_002 is Passed
+ 2023-05-15 13:09:58,803 : INFO : test_Login_ddt_007 : 49 : Clicked on Logout
+ 2023-05-15 13:09:59,928 : INFO : test_Login_ddt_007 : 37 : Username Entered -->Admin1
+ 2023-05-15 13:09:59,972 : INFO : test_Login_ddt_007 : 39 : Password Entered -->admin123
+ 2023-05-15 13:10:13,049 : INFO : test_Login_ddt_007 : 54 : test_Login_002 is Failed
+ 2023-05-15 13:10:13,155 : INFO : test_Login_ddt_007 : 37 : Username Entered -->Admin
+ 2023-05-15 13:10:13,200 : INFO : test_Login_ddt_007 : 39 : Password Entered -->admin1251
+ 2023-05-15 13:10:26,253 : INFO : test_Login_ddt_007 : 54 : test_Login_002 is Failed
+ 2023-05-15 13:10:26,331 : INFO : test_Login_ddt_007 : 37 : Username Entered -->Admin1
+ 2023-05-15 13:10:26,376 : INFO : test_Login_ddt_007 : 39 : Password Entered -->admin1261
+ 2023-05-15 13:10:39,486 : INFO : test_Login_ddt_007 : 54 : test_Login_002 is Failed
+ 2023-05-15 13:10:39,542 : INFO : test_Login_ddt_007 : 60 : test_Login_002 is Completed
+ 2023-05-15 13:13:42,412 : INFO : test_AddEmployee_003 : 21 : test_AddEmployee is Started
+ 2023-05-15 13:13:42,413 : INFO : test_AddEmployee_003 : 22 : Opening Browser
+ 2023-05-15 13:13:46,834 : INFO : test_AddEmployee_003 : 24 : Go To --> https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 13:13:46,834 : INFO : test_AddEmployee_003 : 27 : Login Page Opened
+ 2023-05-15 13:13:51,985 : INFO : test_AddEmployee_003 : 30 : Username Entered -->Admin
+ 2023-05-15 13:13:52,046 : INFO : test_AddEmployee_003 : 32 : Password Entered -->admin123
+ 2023-05-15 13:13:55,095 : INFO : test_AddEmployee_003 : 34 : Login Successful
+ 2023-05-15 13:13:56,098 : INFO : test_AddEmployee_003 : 38 : Clicked on PIM tab
+ 2023-05-15 13:14:01,725 : INFO : test_AddEmployee_003 : 41 : Clicked on Add Button
+ 2023-05-15 13:14:06,869 : INFO : test_AddEmployee_003 : 44 : First Name entered
+ 2023-05-15 13:14:06,911 : INFO : test_AddEmployee_003 : 46 : Middle Name entered
+ 2023-05-15 13:14:06,967 : INFO : test_AddEmployee_003 : 48 : Last Name entered
+ 2023-05-15 13:14:07,009 : INFO : test_AddEmployee_003 : 50 : Clicked On Submit Button
+ 2023-05-15 13:14:10,992 : INFO : test_AddEmployee_003 : 53 : test_AddEmployee is Passed
+ 2023-05-15 13:14:11,039 : INFO : test_AddEmployee_003 : 55 : Click on Logout Button
+ 2023-05-15 13:14:12,873 : INFO : test_AddEmployee_003 : 62 : test_AddEmployee is Completed
+ 2023-05-15 13:14:31,149 : INFO : test_AddEmployee_ddt_006 : 21 : test_AddEmployee_ddt_006 is Started
+ 2023-05-15 13:14:31,151 : INFO : test_AddEmployee_ddt_006 : 22 : Opening Browser
+ 2023-05-15 13:14:35,364 : INFO : test_AddEmployee_ddt_006 : 24 : Go To --> https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 13:14:35,364 : INFO : test_AddEmployee_ddt_006 : 27 : Login Page Opened
+ 2023-05-15 13:14:40,487 : INFO : test_AddEmployee_ddt_006 : 30 : Username Entered -->Admin
+ 2023-05-15 13:14:40,575 : INFO : test_AddEmployee_ddt_006 : 32 : Password Entered -->admin123
+ 2023-05-15 13:14:43,617 : INFO : test_AddEmployee_ddt_006 : 34 : Login Successful
+ 2023-05-15 13:14:44,632 : INFO : test_AddEmployee_ddt_006 : 41 : Clicked on PIM tab
+ 2023-05-15 13:14:50,298 : INFO : test_AddEmployee_ddt_006 : 44 : Clicked on Add Button
+ 2023-05-15 13:14:55,408 : INFO : test_AddEmployee_ddt_006 : 53 : First Name entered -->Rupali
+ 2023-05-15 13:14:55,469 : INFO : test_AddEmployee_ddt_006 : 55 : Middle Name entered -->Prathamesh
+ 2023-05-15 13:14:55,516 : INFO : test_AddEmployee_ddt_006 : 57 : Last Name entered -->Pandit
+ 2023-05-15 13:14:57,616 : INFO : test_AddEmployee_ddt_006 : 60 : Clicked On Submit Button
+ 2023-05-15 13:16:08,166 : INFO : test_AddEmployee_ddt_006 : 21 : test_AddEmployee_ddt_006 is Started
+ 2023-05-15 13:16:08,166 : INFO : test_AddEmployee_ddt_006 : 22 : Opening Browser
+ 2023-05-15 13:16:11,672 : INFO : test_AddEmployee_ddt_006 : 24 : Go To --> https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 13:16:11,672 : INFO : test_AddEmployee_ddt_006 : 27 : Login Page Opened
+ 2023-05-15 13:16:16,720 : INFO : test_AddEmployee_ddt_006 : 30 : Username Entered -->Admin
+ 2023-05-15 13:16:16,777 : INFO : test_AddEmployee_ddt_006 : 32 : Password Entered -->admin123
+ 2023-05-15 13:16:19,821 : INFO : test_AddEmployee_ddt_006 : 34 : Login Successful
+ 2023-05-15 13:16:21,018 : INFO : test_AddEmployee_ddt_006 : 41 : Clicked on PIM tab
+ 2023-05-15 13:16:26,688 : INFO : test_AddEmployee_ddt_006 : 44 : Clicked on Add Button
+ 2023-05-15 13:16:31,819 : INFO : test_AddEmployee_ddt_006 : 53 : First Name entered -->Rupali
+ 2023-05-15 13:16:31,884 : INFO : test_AddEmployee_ddt_006 : 55 : Middle Name entered -->Prathamesh
+ 2023-05-15 13:16:31,943 : INFO : test_AddEmployee_ddt_006 : 57 : Last Name entered -->Pandit
+ 2023-05-15 13:16:34,055 : INFO : test_AddEmployee_ddt_006 : 60 : Clicked On Submit Button
+ 2023-05-15 13:16:39,848 : INFO : test_AddEmployee_ddt_006 : 67 : Clicked On Add_Employee Button
+ 2023-05-15 13:16:39,891 : INFO : test_AddEmployee_ddt_006 : 69 : Data is written in XL sheet
+ 2023-05-15 13:16:40,309 : INFO : test_AddEmployee_ddt_006 : 53 : First Name entered -->Ishanvi
+ 2023-05-15 13:16:40,364 : INFO : test_AddEmployee_ddt_006 : 55 : Middle Name entered -->Prathamesh
+ 2023-05-15 13:16:40,414 : INFO : test_AddEmployee_ddt_006 : 57 : Last Name entered -->Pandit
+ 2023-05-15 13:16:42,514 : INFO : test_AddEmployee_ddt_006 : 60 : Clicked On Submit Button
+ 2023-05-15 13:16:48,355 : INFO : test_AddEmployee_ddt_006 : 67 : Clicked On Add_Employee Button
+ 2023-05-15 13:16:48,366 : INFO : test_AddEmployee_ddt_006 : 69 : Data is written in XL sheet
+ 2023-05-15 13:16:48,825 : INFO : test_AddEmployee_ddt_006 : 53 : First Name entered -->Prathamesh
+ 2023-05-15 13:16:48,885 : INFO : test_AddEmployee_ddt_006 : 55 : Middle Name entered -->Prathamesh
+ 2023-05-15 13:16:48,933 : INFO : test_AddEmployee_ddt_006 : 57 : Last Name entered -->Pandit
+ 2023-05-15 13:16:51,046 : INFO : test_AddEmployee_ddt_006 : 60 : Clicked On Submit Button
+ 2023-05-15 13:16:56,866 : INFO : test_AddEmployee_ddt_006 : 67 : Clicked On Add_Employee Button
+ 2023-05-15 13:16:56,876 : INFO : test_AddEmployee_ddt_006 : 69 : Data is written in XL sheet
+ 2023-05-15 13:16:57,366 : INFO : test_AddEmployee_ddt_006 : 53 : First Name entered -->Surekha
+ 2023-05-15 13:16:57,418 : INFO : test_AddEmployee_ddt_006 : 55 : Middle Name entered -->Maruti
+ 2023-05-15 13:16:57,468 : INFO : test_AddEmployee_ddt_006 : 57 : Last Name entered -->Sutar
+ 2023-05-15 13:16:59,553 : INFO : test_AddEmployee_ddt_006 : 60 : Clicked On Submit Button
+ 2023-05-15 13:17:05,400 : INFO : test_AddEmployee_ddt_006 : 67 : Clicked On Add_Employee Button
+ 2023-05-15 13:17:05,411 : INFO : test_AddEmployee_ddt_006 : 69 : Data is written in XL sheet
+ 2023-05-15 13:17:07,448 : INFO : test_AddEmployee_ddt_006 : 83 : Click on Menu Button
+ 2023-05-15 13:17:08,523 : INFO : test_AddEmployee_ddt_006 : 85 : Click on Logout Button
+ 2023-05-15 13:17:08,603 : INFO : test_AddEmployee_ddt_006 : 89 : test_addEmp_ddt_005 is Passed
+ 2023-05-15 13:17:08,603 : INFO : test_AddEmployee_ddt_006 : 94 : test_addEmp_ddt_005 is Completed
+ 2023-05-15 13:17:17,866 : INFO : test_AddEmployee_ddt_006 : 21 : test_AddEmployee_ddt_006 is Started
+ 2023-05-15 13:17:17,868 : INFO : test_AddEmployee_ddt_006 : 22 : Opening Browser
+ 2023-05-15 13:17:21,749 : INFO : test_AddEmployee_ddt_006 : 24 : Go To --> https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 13:17:21,750 : INFO : test_AddEmployee_ddt_006 : 27 : Login Page Opened
+ 2023-05-15 13:17:26,852 : INFO : test_AddEmployee_ddt_006 : 30 : Username Entered -->Admin
+ 2023-05-15 13:17:26,908 : INFO : test_AddEmployee_ddt_006 : 32 : Password Entered -->admin123
+ 2023-05-15 13:17:29,947 : INFO : test_AddEmployee_ddt_006 : 34 : Login Successful
+ 2023-05-15 13:17:31,138 : INFO : test_AddEmployee_ddt_006 : 41 : Clicked on PIM tab
+ 2023-05-15 13:17:36,781 : INFO : test_AddEmployee_ddt_006 : 44 : Clicked on Add Button
+ 2023-05-15 13:17:41,884 : INFO : test_AddEmployee_ddt_006 : 53 : First Name entered -->Rupali
+ 2023-05-15 13:17:41,943 : INFO : test_AddEmployee_ddt_006 : 55 : Middle Name entered -->Prathamesh
+ 2023-05-15 13:17:41,993 : INFO : test_AddEmployee_ddt_006 : 57 : Last Name entered -->Pandit
+ 2023-05-15 13:17:44,134 : INFO : test_AddEmployee_ddt_006 : 60 : Clicked On Submit Button
+ 2023-05-15 13:20:51,492 : INFO : test_AddEmployee_ddt_006 : 21 : test_AddEmployee_ddt_006 is Started
+ 2023-05-15 13:20:51,492 : INFO : test_AddEmployee_ddt_006 : 22 : Opening Browser
+ 2023-05-15 13:20:54,962 : INFO : test_AddEmployee_ddt_006 : 24 : Go To --> https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 13:20:54,963 : INFO : test_AddEmployee_ddt_006 : 27 : Login Page Opened
+ 2023-05-15 13:21:00,071 : INFO : test_AddEmployee_ddt_006 : 30 : Username Entered -->Admin
+ 2023-05-15 13:21:00,132 : INFO : test_AddEmployee_ddt_006 : 32 : Password Entered -->admin123
+ 2023-05-15 13:21:03,172 : INFO : test_AddEmployee_ddt_006 : 34 : Login Successful
+ 2023-05-15 13:21:04,196 : INFO : test_AddEmployee_ddt_006 : 41 : Clicked on PIM tab
+ 2023-05-15 13:21:09,848 : INFO : test_AddEmployee_ddt_006 : 44 : Clicked on Add Button
+ 2023-05-15 13:21:14,979 : INFO : test_AddEmployee_ddt_006 : 53 : First Name entered -->Rupali
+ 2023-05-15 13:21:15,039 : INFO : test_AddEmployee_ddt_006 : 55 : Middle Name entered -->Prathamesh
+ 2023-05-15 13:21:15,088 : INFO : test_AddEmployee_ddt_006 : 57 : Last Name entered -->Pandit
+ 2023-05-15 13:21:17,177 : INFO : test_AddEmployee_ddt_006 : 60 : Clicked On Submit Button
+ 2023-05-15 13:28:19,324 : INFO : test_Login_ddt_007 : 21 : test_Login_002 is Started
+ 2023-05-15 13:28:19,325 : INFO : test_Login_ddt_007 : 22 : Opening Browser
+ 2023-05-15 13:28:22,964 : INFO : test_Login_ddt_007 : 24 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 13:28:22,964 : INFO : test_Login_ddt_007 : 26 : Login Page Opened
+ 2023-05-15 13:28:28,045 : INFO : test_Login_ddt_007 : 37 : Username Entered -->Admin
+ 2023-05-15 13:28:28,100 : INFO : test_Login_ddt_007 : 39 : Password Entered -->admin123
+ 2023-05-15 13:28:31,176 : INFO : test_Login_ddt_007 : 45 : Login Successful
+ 2023-05-15 13:28:31,177 : INFO : test_Login_ddt_007 : 46 : test_Login_002 is Passed
+ 2023-05-15 13:28:31,307 : INFO : test_Login_ddt_007 : 49 : Clicked on Logout
+ 2023-05-15 13:28:32,648 : INFO : test_Login_ddt_007 : 37 : Username Entered -->Admin1
+ 2023-05-15 13:28:32,692 : INFO : test_Login_ddt_007 : 39 : Password Entered -->admin123
+ 2023-05-15 13:28:45,801 : INFO : test_Login_ddt_007 : 54 : test_Login_002 is Failed
+ 2023-05-15 13:28:45,905 : INFO : test_Login_ddt_007 : 37 : Username Entered -->Admin
+ 2023-05-15 13:28:45,950 : INFO : test_Login_ddt_007 : 39 : Password Entered -->admin1251
+ 2023-05-15 13:28:59,051 : INFO : test_Login_ddt_007 : 54 : test_Login_002 is Failed
+ 2023-05-15 13:28:59,166 : INFO : test_Login_ddt_007 : 37 : Username Entered -->Admin1
+ 2023-05-15 13:28:59,211 : INFO : test_Login_ddt_007 : 39 : Password Entered -->admin1261
+ 2023-05-15 13:29:12,360 : INFO : test_Login_ddt_007 : 54 : test_Login_002 is Failed
+ 2023-05-15 13:29:12,475 : INFO : test_Login_ddt_007 : 60 : test_Login_002 is Completed
+ 2023-05-15 14:05:14,330 : INFO : test_Login_ddt_007 : 21 : test_Login_002 is Started
+ 2023-05-15 14:05:14,330 : INFO : test_AddEmployee_003 : 21 : test_AddEmployee is Started
+ 2023-05-15 14:05:14,330 : INFO : test_AddEmployee_003 : 22 : Opening Browser
+ 2023-05-15 14:05:14,486 : INFO : test_Login_Params_004 : 18 : test_Login_002 is Started
+ 2023-05-15 14:05:14,487 : INFO : test_Login_Params_004 : 19 : Opening Browser
+ 2023-05-15 14:05:14,520 : INFO : test_page_Titl_001 : 19 : test_page_Titl_001 is Started
+ 2023-05-15 14:05:14,520 : INFO : test_page_Titl_001 : 20 : Opening Browser
+ 2023-05-15 14:05:20,230 : INFO : test_AddEmployee_003 : 24 : Go To --> https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 14:05:20,231 : INFO : test_AddEmployee_003 : 27 : Login Page Opened
+ 2023-05-15 14:05:22,349 : INFO : test_Login_ddt_007 : 24 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 14:05:22,349 : INFO : test_Login_ddt_007 : 26 : Login Page Opened
+ 2023-05-15 14:05:22,875 : INFO : test_page_Titl_001 : 22 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 14:05:22,880 : INFO : test_page_Titl_001 : 25 : test_page_Titl_001 is Passed
+ 2023-05-15 14:05:22,884 : INFO : test_page_Titl_001 : 26 : Page Title is --> OrangeHRM
+ 2023-05-15 14:05:22,966 : INFO : test_page_Titl_001 : 32 : test_page_Titl_001 is Completed
+ 2023-05-15 14:05:24,485 : INFO : test_Login_002 : 38 : test_Login_002 is Started
+ 2023-05-15 14:05:24,485 : INFO : test_Login_002 : 39 : Opening Browser
+ 2023-05-15 14:05:25,306 : INFO : test_AddEmployee_003 : 30 : Username Entered -->Admin
+ 2023-05-15 14:05:25,392 : INFO : test_AddEmployee_003 : 32 : Password Entered -->admin123
+ 2023-05-15 14:05:25,793 : INFO : test_Login_Params_004 : 21 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 14:05:25,793 : INFO : test_Login_Params_004 : 23 : Login Page Opened
+ 2023-05-15 14:05:27,491 : INFO : test_Login_ddt_007 : 37 : Username Entered -->Admin
+ 2023-05-15 14:05:27,558 : INFO : test_Login_ddt_007 : 39 : Password Entered -->admin123
+ 2023-05-15 14:05:28,467 : INFO : test_AddEmployee_003 : 34 : Login Successful
+ 2023-05-15 14:05:30,361 : INFO : test_AddEmployee_003 : 38 : Clicked on PIM tab
+ 2023-05-15 14:05:30,879 : INFO : test_Login_Params_004 : 26 : Username Entered -->Admin1
+ 2023-05-15 14:05:30,952 : INFO : test_Login_Params_004 : 28 : Password Entered -->admin123
+ 2023-05-15 14:05:32,113 : INFO : test_Login_ddt_007 : 45 : Login Successful
+ 2023-05-15 14:05:32,113 : INFO : test_Login_ddt_007 : 46 : test_Login_002 is Passed
+ 2023-05-15 14:05:32,362 : INFO : test_Login_ddt_007 : 49 : Clicked on Logout
+ 2023-05-15 14:05:33,584 : INFO : test_Login_ddt_007 : 37 : Username Entered -->Admin1
+ 2023-05-15 14:05:33,617 : INFO : test_Login_002 : 41 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 14:05:33,617 : INFO : test_Login_002 : 43 : Login Page Opened
+ 2023-05-15 14:05:33,637 : INFO : test_Login_ddt_007 : 39 : Password Entered -->admin123
+ 2023-05-15 14:05:36,089 : INFO : test_AddEmployee_003 : 41 : Clicked on Add Button
+ 2023-05-15 14:05:38,668 : INFO : test_Login_002 : 46 : Username Entered -->Admin
+ 2023-05-15 14:05:38,730 : INFO : test_Login_002 : 48 : Password Entered -->admin123
+ 2023-05-15 14:05:41,165 : INFO : test_AddEmployee_003 : 44 : First Name entered
+ 2023-05-15 14:05:41,216 : INFO : test_AddEmployee_003 : 46 : Middle Name entered
+ 2023-05-15 14:05:41,280 : INFO : test_AddEmployee_003 : 48 : Last Name entered
+ 2023-05-15 14:05:41,582 : INFO : test_AddEmployee_003 : 50 : Clicked On Submit Button
+ 2023-05-15 14:05:43,599 : INFO : test_Login_002 : 53 : Login Successful
+ 2023-05-15 14:05:43,599 : INFO : test_Login_002 : 54 : test_Login_002 is Passed
+ 2023-05-15 14:05:43,899 : INFO : test_Login_002 : 57 : Clicked on Logout
+ 2023-05-15 14:05:44,065 : INFO : test_Login_Params_004 : 48 : test_Login_002 is Passed
+ 2023-05-15 14:05:45,457 : INFO : test_Login_Params_004 : 57 : test_Login_002 is Completed
+ 2023-05-15 14:05:46,022 : INFO : test_AddEmployee_003 : 53 : test_AddEmployee is Passed
+ 2023-05-15 14:05:46,080 : INFO : test_AddEmployee_003 : 55 : Click on Logout Button
+ 2023-05-15 14:05:46,691 : INFO : test_Login_ddt_007 : 54 : test_Login_002 is Failed
+ 2023-05-15 14:05:46,891 : INFO : test_Login_ddt_007 : 37 : Username Entered -->Admin
+ 2023-05-15 14:05:46,983 : INFO : test_Login_ddt_007 : 39 : Password Entered -->admin1251
+ 2023-05-15 14:05:47,864 : INFO : test_Login_002 : 67 : test_Login_002 is Completed
+ 2023-05-15 14:05:50,179 : INFO : test_Login_Params_004 : 18 : test_Login_002 is Started
+ 2023-05-15 14:05:50,180 : INFO : test_Login_Params_004 : 19 : Opening Browser
+ 2023-05-15 14:05:55,001 : INFO : test_AddEmployee_003 : 62 : test_AddEmployee is Completed
+ 2023-05-15 14:05:57,353 : INFO : test_Login_Params_004 : 18 : test_Login_002 is Started
+ 2023-05-15 14:05:57,353 : INFO : test_Login_Params_004 : 19 : Opening Browser
+ 2023-05-15 14:05:59,823 : INFO : test_AddEmployee_ddt_006 : 21 : test_AddEmployee_ddt_006 is Started
+ 2023-05-15 14:05:59,824 : INFO : test_AddEmployee_ddt_006 : 22 : Opening Browser
+ 2023-05-15 14:06:00,087 : INFO : test_Login_ddt_007 : 54 : test_Login_002 is Failed
+ 2023-05-15 14:06:00,301 : INFO : test_Login_ddt_007 : 37 : Username Entered -->Admin1
+ 2023-05-15 14:06:00,353 : INFO : test_Login_ddt_007 : 39 : Password Entered -->admin1261
+ 2023-05-15 14:06:04,925 : INFO : test_Login_Params_004 : 21 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 14:06:04,925 : INFO : test_Login_Params_004 : 23 : Login Page Opened
+ 2023-05-15 14:06:07,812 : INFO : test_AddEmployee_ddt_006 : 24 : Go To --> https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 14:06:07,812 : INFO : test_AddEmployee_ddt_006 : 27 : Login Page Opened
+ 2023-05-15 14:06:09,993 : INFO : test_Login_Params_004 : 26 : Username Entered -->Admin
+ 2023-05-15 14:06:10,064 : INFO : test_Login_Params_004 : 28 : Password Entered -->admin1231
+ 2023-05-15 14:06:12,880 : INFO : test_AddEmployee_ddt_006 : 30 : Username Entered -->Admin
+ 2023-05-15 14:06:12,941 : INFO : test_AddEmployee_ddt_006 : 32 : Password Entered -->admin123
+ 2023-05-15 14:06:13,462 : INFO : test_Login_ddt_007 : 54 : test_Login_002 is Failed
+ 2023-05-15 14:06:13,682 : INFO : test_Login_ddt_007 : 60 : test_Login_002 is Completed
+ 2023-05-15 14:06:15,211 : INFO : test_Login_Params_004 : 18 : test_Login_002 is Started
+ 2023-05-15 14:06:15,211 : INFO : test_Login_Params_004 : 19 : Opening Browser
+ 2023-05-15 14:06:16,507 : INFO : test_Login_Params_004 : 21 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 14:06:16,507 : INFO : test_Login_Params_004 : 23 : Login Page Opened
+ 2023-05-15 14:06:17,323 : INFO : test_AddEmployee_ddt_006 : 34 : Login Successful
+ 2023-05-15 14:06:18,329 : INFO : test_AddEmployee_ddt_006 : 41 : Clicked on PIM tab
+ 2023-05-15 14:06:21,575 : INFO : test_Login_Params_004 : 26 : Username Entered -->Admin1
+ 2023-05-15 14:06:21,635 : INFO : test_Login_Params_004 : 28 : Password Entered -->admin1231
+ 2023-05-15 14:06:23,156 : INFO : test_Login_Params_004 : 48 : test_Login_002 is Passed
+ 2023-05-15 14:06:23,230 : INFO : test_Login_Params_004 : 57 : test_Login_002 is Completed
+ 2023-05-15 14:06:23,981 : INFO : test_AddEmployee_ddt_006 : 44 : Clicked on Add Button
+ 2023-05-15 14:06:24,786 : INFO : test_EmpSearch_005 : 22 : test_EmpSearch_005 is Started
+ 2023-05-15 14:06:24,786 : INFO : test_EmpSearch_005 : 23 : Opening Browser..
+ 2023-05-15 14:06:26,505 : INFO : test_Login_Params_004 : 21 : Go to -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 14:06:26,505 : INFO : test_Login_Params_004 : 23 : Login Page Opened
+ 2023-05-15 14:06:29,084 : INFO : test_AddEmployee_ddt_006 : 53 : First Name entered -->Rupali
+ 2023-05-15 14:06:29,157 : INFO : test_AddEmployee_ddt_006 : 55 : Middle Name entered -->Prathamesh
+ 2023-05-15 14:06:29,209 : INFO : test_AddEmployee_ddt_006 : 57 : Last Name entered -->Pandit
+ 2023-05-15 14:06:31,249 : INFO : test_AddEmployee_ddt_006 : 60 : Clicked On Submit Button
+ 2023-05-15 14:06:31,581 : INFO : test_Login_Params_004 : 26 : Username Entered -->Admin
+ 2023-05-15 14:06:31,649 : INFO : test_Login_Params_004 : 28 : Password Entered -->admin123
+ 2023-05-15 14:06:34,708 : INFO : test_Login_Params_004 : 34 : Login Successful
+ 2023-05-15 14:06:34,708 : INFO : test_Login_Params_004 : 35 : test_Login_002 is Passed
+ 2023-05-15 14:06:34,981 : INFO : test_Login_Params_004 : 38 : Clicked on Logout
+ 2023-05-15 14:06:35,706 : INFO : test_Login_Params_004 : 48 : test_Login_002 is Passed
+ 2023-05-15 14:06:36,244 : INFO : test_Login_Params_004 : 57 : test_Login_002 is Completed
+ 2023-05-15 14:06:36,597 : INFO : test_Login_Params_004 : 57 : test_Login_002 is Completed
+ 2023-05-15 14:06:40,342 : INFO : test_EmpSearch_005 : 25 : Go To --> https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 2023-05-15 14:06:42,069 : INFO : test_AddEmployee_ddt_006 : 67 : Clicked On Add_Employee Button
+ 2023-05-15 14:06:42,078 : INFO : test_AddEmployee_ddt_006 : 69 : Data is written in XL sheet
+ 2023-05-15 14:06:42,424 : INFO : test_EmpSearch_005 : 30 : Entering Username -->Admin
+ 2023-05-15 14:06:42,489 : INFO : test_EmpSearch_005 : 32 : Entering Password -->admin123
+ 2023-05-15 14:06:42,565 : INFO : test_AddEmployee_ddt_006 : 53 : First Name entered -->Ishanvi
+ 2023-05-15 14:06:42,620 : INFO : test_AddEmployee_ddt_006 : 55 : Middle Name entered -->Prathamesh
+ 2023-05-15 14:06:42,666 : INFO : test_AddEmployee_ddt_006 : 57 : Last Name entered -->Pandit
+ 2023-05-15 14:06:44,707 : INFO : test_AddEmployee_ddt_006 : 60 : Clicked On Submit Button
+ 2023-05-15 14:06:45,542 : INFO : test_EmpSearch_005 : 34 : Click on Login Button
+ 2023-05-15 14:06:48,541 : INFO : test_EmpSearch_005 : 38 : Click on PIM Button
+ 2023-05-15 14:06:55,578 : INFO : test_AddEmployee_ddt_006 : 67 : Clicked On Add_Employee Button
+ 2023-05-15 14:06:55,592 : INFO : test_AddEmployee_ddt_006 : 69 : Data is written in XL sheet
+ 2023-05-15 14:06:55,634 : INFO : test_EmpSearch_005 : 43 : Entering Employee name to search
+ 2023-05-15 14:06:56,076 : INFO : test_AddEmployee_ddt_006 : 53 : First Name entered -->Prathamesh
+ 2023-05-15 14:06:56,136 : INFO : test_AddEmployee_ddt_006 : 55 : Middle Name entered -->Prathamesh
+ 2023-05-15 14:06:56,183 : INFO : test_AddEmployee_ddt_006 : 57 : Last Name entered -->Pandit
+ 2023-05-15 14:06:57,747 : INFO : test_EmpSearch_005 : 46 : Click on search Button
+ 2023-05-15 14:06:58,231 : INFO : test_AddEmployee_ddt_006 : 60 : Clicked On Submit Button
+ 2023-05-15 14:07:02,755 : INFO : test_EmpSearch_005 : 51 : Search Found
+ 2023-05-15 14:07:02,959 : INFO : test_EmpSearch_005 : 54 : Click on Menu Button
+ 2023-05-15 14:07:03,868 : INFO : test_EmpSearch_005 : 56 : Click on Logout Button
+ 2023-05-15 14:07:03,868 : INFO : test_EmpSearch_005 : 57 : test_EmpSearch_005 is Passed
+ 2023-05-15 14:07:09,119 : INFO : test_AddEmployee_ddt_006 : 67 : Clicked On Add_Employee Button
+ 2023-05-15 14:07:09,129 : INFO : test_AddEmployee_ddt_006 : 69 : Data is written in XL sheet
+ 2023-05-15 14:07:09,680 : INFO : test_AddEmployee_ddt_006 : 53 : First Name entered -->Surekha
+ 2023-05-15 14:07:09,735 : INFO : test_AddEmployee_ddt_006 : 55 : Middle Name entered -->Maruti
+ 2023-05-15 14:07:09,780 : INFO : test_AddEmployee_ddt_006 : 57 : Last Name entered -->Sutar
+ 2023-05-15 14:07:11,849 : INFO : test_AddEmployee_ddt_006 : 60 : Clicked On Submit Button
+ 2023-05-15 14:07:22,653 : INFO : test_AddEmployee_ddt_006 : 67 : Clicked On Add_Employee Button
+ 2023-05-15 14:07:22,662 : INFO : test_AddEmployee_ddt_006 : 69 : Data is written in XL sheet
+ 2023-05-15 14:07:24,759 : INFO : test_AddEmployee_ddt_006 : 83 : Click on Menu Button
+ 2023-05-15 14:07:25,617 : INFO : test_AddEmployee_ddt_006 : 85 : Click on Logout Button
+ 2023-05-15 14:07:25,778 : INFO : test_AddEmployee_ddt_006 : 89 : test_addEmp_ddt_005 is Passed
+ 2023-05-15 14:07:25,778 : INFO : test_AddEmployee_ddt_006 : 94 : test_addEmp_ddt_005 is Completed
